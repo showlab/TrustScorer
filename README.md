@@ -1,4 +1,4 @@
-## Can I Trust You? Advancing GUI Task Automation with Action Trust Score
+## ACM MM 2025: Can I Trust You? Advancing GUI Task Automation with Action Trust Score
 
 **[Show Lab @ NUS](https://sites.google.com/view/showlab)**
 
@@ -22,7 +22,7 @@ human intervention when action trust score is low, to help mingling
 human precision with AI efficiency.
 
 <p align="center">
-  <img src="assets/teaser.jpg?raw=true" width="400"/>
+  <img src="assets/teaser.png?raw=true" width="400"/>
 </p>
 
 **TrustScorer** takes as input the user query _q_, subtask description _d_, action sequence _s_, and state observation _o_, and outputs a trustworthiness label _l_ indicating the likelihood that the action sequence can accomplish the specified subtask
@@ -35,12 +35,12 @@ human precision with AI efficiency.
 
 One TrustBench example on PPT:
 <p align="center">
-  <img src="assets/ppt.png?raw=true" width="600"/>
+  <img src="assets/ppt.png?raw=true" width="700"/>
 </p>
 
 The annotation pipeline:
 <p align="center">
-  <img src="assets/annotation.png?raw=true" width="600"/>
+  <img src="assets/annotation.png?raw=true" width="800"/>
 </p>
 
 The TrustBench will be released at December 2025.
