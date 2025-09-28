@@ -6,7 +6,7 @@
 
 [[`Paper`]()] [[`BibTeX`](#citation)]
 
-- [Table of Contents](#0-TrustScorer)
+- [Table of Contents](#0-table-of-contents)
   * [1. TrustScorer](#1-trustscorer)
   * [2. TrustBench](#2-trustbench)
   * [3. Implementation](#3-implementation)
@@ -73,4 +73,4 @@ Please see `LICENSE`
 E-Mail: Haiyang Mei (haiyang.mei@outlook.com)
 
 
-**[⬆ back to top](#1-overview)**
+**[⬆ back to top](#1-trustscorer)**
