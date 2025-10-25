@@ -4,7 +4,7 @@
 
 [Haiyang Mei](https://mhaiyang.github.io/), [Difei Gao](https://scholar.google.com/citations?user=No9OsocAAAAJ&hl=en), Xiaopeng Wei, Xin Yang, [Mike Zheng Shou](https://sites.google.com/view/showlab)
 
-[[`Paper`]()] [[`BibTeX`](#citation)]
+[[`Paper`](https://dl.acm.org/doi/10.1145/3746027.3755618)] [[`BibTeX`](#citation)]
 
 - [Table of Contents](#0-table-of-contents)
   * [1. TrustScorer](#1-trustscorer)
