@@ -53,9 +53,8 @@ human intervention when action trust score is low, to help mingling human precis
 
 ### 2. TrustBench
 **TrustBench** includes 106 specific tasks from 9 commonly used applications as well as 718 agent action sequences along with the corresponding ground-truth annotations. **Download link:**
-[ [Google Drive](xxx) ]
-[ [OneDrive](xxx) ]
-[ [BaiduDisk](xxx) ].
+[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgD2F3EiQMLJRLiOfxVK75aqAXnzZwwMFl66LbR670GbUs8?e=tr2wAb) ]
+[ [BaiduDisk](https://pan.baidu.com/s/1y3wlvKy9HBQhKijMNOuQsw?pwd=mm25) ].
 
 <p align="center">
   <img src="assets/trustbench.png" width="800"/>
