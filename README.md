@@ -49,10 +49,14 @@ human intervention when action trust score is low, to help mingling human precis
   <img src="assets/teaser.png" width="460"/>
 </p>
 
-**TrustScorer** takes as input the user query _q_, subtask description _d_, action sequence _s_, and state observation _o_, and outputs a trustworthiness label _l_ indicating the likelihood that the action sequence can accomplish the specified subtask
+**TrustScorer** takes as input the user query _q_, subtask description _d_, action sequence _s_, and state observation _o_, and outputs a trustworthiness label _l_ indicating the likelihood that the action sequence can accomplish the specified subtask.
 
 ### 2. TrustBench
-**TrustBench** includes 106 specific tasks from 9 commonly used applications as well as 718 agent action sequences along with the corresponding ground-truth annotations.
+**TrustBench** includes 106 specific tasks from 9 commonly used applications as well as 718 agent action sequences along with the corresponding ground-truth annotations. **Download link:**
+[ [Google Drive](xxx) ]
+[ [OneDrive](xxx) ]
+[ [BaiduDisk](xxx) ].
+
 <p align="center">
   <img src="assets/trustbench.png" width="800"/>
 </p>
@@ -89,7 +93,7 @@ If you use TrustScorer/TrustBench in your research, please use the following Bib
 
 ### 6. License
 
-Please see `LICENSE`
+Please see `LICENSE`.
 
 ### 7. Contact
 E-Mail: Haiyang Mei (haiyang.mei@outlook.com)
