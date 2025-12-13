@@ -87,15 +87,15 @@ sh train.sh
 ```
 The checkpoints will be saved under the `workdir` configured by hydra `client/method/trustmodel/conf/config.yaml`. The language model we use is a encoder-only [DeBERTa](https://arxiv.org/abs/2006.03654) model that outputs a score for a pair of query (task) and action (python code), and the implementation is based on SentenceTransformer's [Cross-Encoders](https://www.sbert.net/examples/training/cross-encoder/README.html).
 
+**Model link:**
+[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgC_qeHluCJ2S6tpaujl0nkUAVOG-H0TMIgmgWc4GFfavOg?e=rliACB) ]
+[ [BaiduDisk](https://pan.baidu.com/s/1Ue6tKaT910-QKvdS1um5sw?pwd=mm25) ].
+
 #### 3.3 Inference
 ```
 cd client/method/trustmodel
 python infer.py
 ```
-
-**Model link:**
-[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgC_qeHluCJ2S6tpaujl0nkUAVOG-H0TMIgmgWc4GFfavOg?e=rliACB) ]
-[ [BaiduDisk](https://pan.baidu.com/s/1Ue6tKaT910-QKvdS1um5sw?pwd=mm25) ].
 
 #### 3.4 Visualization
 ```
