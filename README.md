@@ -52,9 +52,7 @@ human intervention when action trust score is low, to help mingling human precis
 **TrustScorer** takes as input the user query _q_, subtask description _d_, action sequence _s_, and state observation _o_, and outputs a trustworthiness label _l_ indicating the likelihood that the action sequence can accomplish the specified subtask.
 
 ### 2. TrustBench
-**TrustBench** includes 106 specific tasks from 9 commonly used applications as well as 718 agent action sequences along with the corresponding ground-truth annotations. **Download link:**
-[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgD2F3EiQMLJRLiOfxVK75aqAXnzZwwMFl66LbR670GbUs8?e=tr2wAb) ]
-[ [BaiduDisk](https://pan.baidu.com/s/1y3wlvKy9HBQhKijMNOuQsw?pwd=mm25) ].
+**TrustBench** includes 106 specific tasks from 9 commonly used applications as well as 718 agent action sequences along with the corresponding ground-truth annotations. 
 
 <p align="center">
   <img src="assets/trustbench.png" width="800"/>
@@ -70,8 +68,22 @@ The annotation pipeline:
   <img src="assets/annotation.png" width="800"/>
 </p>
 
+**Dataset link:**
+[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgD2F3EiQMLJRLiOfxVK75aqAXnzZwwMFl66LbR670GbUs8?e=tr2wAb) ]
+[ [BaiduDisk](https://pan.baidu.com/s/1y3wlvKy9HBQhKijMNOuQsw?pwd=mm25) ].
+
 ### 3. Implementation
 xxx
+
+**Model link:**
+[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgC_qeHluCJ2S6tpaujl0nkUAVOG-H0TMIgmgWc4GFfavOg?e=rliACB) ]
+[ [BaiduDisk](https://pan.baidu.com/s/1Ue6tKaT910-QKvdS1um5sw?pwd=mm25) ].
+
+**Result link:**
+[ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgCDeT8J4fzcT7V7ZxVhe5qsASSo6K7ch34S8muiSkMdYvE?e=vdvFHV) ]
+[ [BaiduDisk](https://pan.baidu.com/s/15-T-GAdkOIpN6FsW4L0EvQ?pwd=mm25) ].
+
+
 
 ### 4. Acknowledgements
 
