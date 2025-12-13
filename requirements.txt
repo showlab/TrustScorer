@@ -1,0 +1,13 @@
+uiautomation
+pywinauto
+requests
+pygetwindow
+termcolor
+pyautogui
+openai
+google-cloud
+hydra-core
+datasets
+sentence_transformers
+sentencepiece
+protobuf

@@ -73,11 +73,27 @@ The annotation pipeline:
 [ [BaiduDisk](https://pan.baidu.com/s/1y3wlvKy9HBQhKijMNOuQsw?pwd=mm25) ].
 
 ### 3. Implementation
+#### 3.1 Setup Environment
+```
+conda env create -f score_env.yml
+pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
+```
+
+#### 3.2 Training
 xxx
+
+#### 3.3 Inference
+xxx
+
+
 
 **Model link:**
 [ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgC_qeHluCJ2S6tpaujl0nkUAVOG-H0TMIgmgWc4GFfavOg?e=rliACB) ]
 [ [BaiduDisk](https://pan.baidu.com/s/1Ue6tKaT910-QKvdS1um5sw?pwd=mm25) ].
+
+#### 3.4 Visualization
+xxx
 
 **Result link:**
 [ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgCDeT8J4fzcT7V7ZxVhe5qsASSo6K7ch34S8muiSkMdYvE?e=vdvFHV) ]
