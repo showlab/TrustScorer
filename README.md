@@ -91,8 +91,6 @@ The checkpoints will be saved under the `workdir` configured by hydra `client/me
 ```
 cd client/method/trustmodel
 python infer.py
-cd utils
-python format.py
 ```
 
 **Model link:**
