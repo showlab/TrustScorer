@@ -123,6 +123,11 @@ python 1_cal_score_accuracy.py
 python 2_plot_histogram.py
 ```
 
+3. generate {method_name}_actions.json
+```
+python 3_refine_actions.py
+```
+
 **Result link:**
 [ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgCDeT8J4fzcT7V7ZxVhe5qsASSo6K7ch34S8muiSkMdYvE?e=vdvFHV) ]
 [ [BaiduDisk](https://pan.baidu.com/s/15-T-GAdkOIpN6FsW4L0EvQ?pwd=mm25) ].
