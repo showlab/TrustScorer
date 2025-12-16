@@ -1,0 +1,5 @@
+hydra-core
+datasets
+sentence_transformers
+sentencepiece
+protobuf
