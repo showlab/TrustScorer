@@ -118,9 +118,9 @@ python 0_sum_ace_actions.py
 python 1_cal_score_accuracy.py
 ```
 
-2. generate TF.json and ACC.txt
+2. plot histogram.pdf
 ```
-python 1_cal_score_accuracy.py
+python 2_plot_histogram.py
 ```
 
 **Result link:**
