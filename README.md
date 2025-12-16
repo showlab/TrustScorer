@@ -96,7 +96,7 @@ The checkpoints will be saved under the `workdir` configured by hydra `client/me
 ```
 cd client/method
 python prompting_gpt4.py
-python utils/format.py
+python trustmodel/utils/format.py
 ```
 
 - Training Method
