@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
-os.environ["OPENAI_KEY"] = "" # your_api
+os.environ["OPENAI_KEY"] = "xxxx" # xxxx is your_api
 client = OpenAI(api_key=os.environ.get('OPENAI_KEY'))
 
 
@@ -88,4 +88,3 @@ def run_llm(prompt, llm='gpt-3.5-turbo', max_tokens=256, temperature=0, stop=Non
     else:
         raise ValueError(f'Invalid llm: {llm}')
     return out
-

@@ -92,6 +92,13 @@ The checkpoints will be saved under the `workdir` configured by hydra `client/me
 [ [BaiduDisk](https://pan.baidu.com/s/1Ue6tKaT910-QKvdS1um5sw?pwd=mm25) ].
 
 #### 3.3 Inference
+- Prompting Method
+```
+cd client/method
+python prompting_gpt4.py
+```
+
+- Training Method
 ```
 cd client/method/trustmodel
 python infer.py
