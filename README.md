@@ -96,19 +96,31 @@ The checkpoints will be saved under the `workdir` configured by hydra `client/me
 ```
 cd client/method
 python prompting_gpt4.py
+python utils/format.py
 ```
 
 - Training Method
 ```
 cd client/method/trustmodel
 python infer.py
+python utils/format.py
 ```
 
 #### 3.4 Visualization
+0. generate ace_actions.json
 ```
-cd client/method/trustmodel/utils
-python format.py
-xxx
+cd ../../utils
+python 0_sum_ace_actions.py
+```
+
+1. generate TF.json and ACC.txt
+```
+python 1_cal_score_accuracy.py
+```
+
+2. generate TF.json and ACC.txt
+```
+python 1_cal_score_accuracy.py
 ```
 
 **Result link:**
