@@ -1,0 +1,35 @@
+defaults:
+  - _self_
+  - model: deberta-v3-base
+
+distributed: True
+
+train:
+  neg_ratio: 5
+  batch_size: 30
+  learning_rate: 1e-5
+  epoch: 1000
+  warmup_steps: 0.5
+  use_amp: True
+
+val:
+  eval: True
+  batch_size: 30
+  use_amp: True
+  evaluation_steps: 0
+  evaluation_epochs: 20
+
+seed: 123
+
+data:
+  data_path: ./data
+  train_split_file: train
+  val_split_file: val
+  test_split_files: test
+
+hydra:
+  run:
+    dir: ./ckpt/trustmodel
+  job:
+    chdir: False
+  verbose: INFO
