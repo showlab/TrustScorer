@@ -1,0 +1,57 @@
+[
+    {
+        "image_path": "output_cropped_images\\pannel1\\0_Filter Bin Content.png",
+        "label": "Filter Bin Content",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\1_Create Now Search Bin from query.png",
+        "label": "Create Now Search Bin from query",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\2_List View.png",
+        "label": "List View",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\3_Icon View.png",
+        "label": "Icon View",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\4_Freefrom View.png",
+        "label": "Freefrom View",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\5_adjust the size of icons and thumbnails.png",
+        "label": "adjust the size of icons and thumbnails",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\6_automate to sequence.png",
+        "label": "automate to sequence",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\7_new bins.png",
+        "label": "new bins",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\8_new items.png",
+        "label": "new items",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\9_clear.png",
+        "label": "clear",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel1\\10_sort icons.png",
+        "label": "sort icons",
+        "pannel": "pannel1"
+    }
+]

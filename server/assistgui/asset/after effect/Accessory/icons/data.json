@@ -1,0 +1,67 @@
+[
+    {
+        "image_path": "AE_cropped_button\\pannel1\\0_Home.png",
+        "label": "Home",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\1_Selection Tool.png",
+        "label": "Selection Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\2_Hand Tool.png",
+        "label": "Hand Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\3_Zoom Tool.png",
+        "label": "Zoom Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\4_Rotation Tool.png",
+        "label": "Rotation Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\5_Pan Behind Tool.png",
+        "label": "Pan Behind Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\6_Brush Tool.png",
+        "label": "Brush Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\7_Clone Stamp Tool.png",
+        "label": "Clone Stamp Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\8_Eraser Tool.png",
+        "label": "Eraser Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\9_Roto Brush Tool.png",
+        "label": "Roto Brush Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\10_Puttet Position Pin Tool.png",
+        "label": "Puttet Position Pin Tool",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\11_Composition Mini-flowchart.png",
+        "label": "Composition Mini-flowchart",
+        "pannel": "pannel1"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel1\\12_Hides all layers for which the 'shy' switch is set .png",
+        "label": "Hides all layers for which the 'shy' switch is set ",
+        "pannel": "pannel1"
+    }
+]

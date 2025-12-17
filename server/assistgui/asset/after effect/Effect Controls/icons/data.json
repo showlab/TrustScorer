@@ -1,0 +1,52 @@
+[
+    {
+        "image_path": "AE_cropped_button\\pannel4\\0_composition mini-flowchart.png",
+        "label": "composition mini-flowchart",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\1_hide all layers.png",
+        "label": "hide all layers",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\2_enable frames blending.png",
+        "label": "enable frames blending",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\3_enable motion blur.png",
+        "label": "enable motion blur",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\4_graph editor.png",
+        "label": "graph editor",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\5_pick wisp.png",
+        "label": "pick wisp",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\6_folding.png",
+        "label": "folding",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\7_unfolding.png",
+        "label": "unfolding",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\8_time-vary stop watch.png",
+        "label": "time-vary stop watch",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel4\\9_time-vary stop watch activated.png",
+        "label": "time-vary stop watch activated",
+        "pannel": "pannel4"
+    }
+]

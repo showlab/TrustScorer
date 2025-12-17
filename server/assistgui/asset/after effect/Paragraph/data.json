@@ -1,0 +1,87 @@
+[
+    {
+        "image_path": "AE_cropped_button\\pannel3\\0_left to right text direction.png",
+        "label": "left to right text direction",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\1_ceter text.png",
+        "label": "ceter text",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\2_right align text.png",
+        "label": "right align text",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\3_justify last left.png",
+        "label": "justify last left",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\4_justify last center.png",
+        "label": "justify last center",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\5_justify last right.png",
+        "label": "justify last right",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\6_justify all.png",
+        "label": "justify all",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\7_left to right text direction activated.png",
+        "label": "left to right text direction activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\8_right to left text direction.png",
+        "label": "right to left text direction",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\9_ceter text activated.png",
+        "label": "ceter text activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\10_right align text activated.png",
+        "label": "right align text activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\11_justify last left activated.png",
+        "label": "justify last left activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\12_justify last center activated.png",
+        "label": "justify last center activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\13_justify last right activated.png",
+        "label": "justify last right activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\14_justify last center activated.png",
+        "label": "justify last center activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\15_right to left text direction activated.png",
+        "label": "right to left text direction activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel3\\16_left to right text direction.png",
+        "label": "left to right text direction",
+        "pannel": "pannel3"
+    }
+]

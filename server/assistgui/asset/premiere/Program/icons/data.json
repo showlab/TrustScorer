@@ -1,0 +1,122 @@
+[
+    {
+        "image_path": "output_cropped_images\\pannel2\\0_Add Marker.png",
+        "label": "Add Marker",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\1_Mark In.png",
+        "label": "Mark In",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\2_Mark Out.png",
+        "label": "Mark Out",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\3_Go To In.png",
+        "label": "Go To In",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\4_Step Back 1 Frame.png",
+        "label": "Step Back 1 Frame",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\5_Play Stop Toggle.png",
+        "label": "Play Stop Toggle",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\6_Step Forward 1 Frame.png",
+        "label": "Step Forward 1 Frame",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\7_Go To Out.png",
+        "label": "Go To Out",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\8_Insert.png",
+        "label": "Insert",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\9_Overwrite.png",
+        "label": "Overwrite",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\10_Export Frame.png",
+        "label": "Export Frame",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\11_Export Frame.png",
+        "label": "Export Frame",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\12_Clear out.png",
+        "label": "Clear out",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\13_Play Video in to out.png",
+        "label": "Play Video in to out",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\14_Go to next marker.png",
+        "label": "Go to next marker",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\15_Go to previous marker.png",
+        "label": "Go to previous marker",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\16_play around.png",
+        "label": "play around",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\17_Loop playback.png",
+        "label": "Loop playback",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\18_safe margins.png",
+        "label": "safe margins",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\19_Toggle Proxies.png",
+        "label": "Toggle Proxies",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\20_Toggle multi-camera views.png",
+        "label": "Toggle multi-camera views",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\21_Toggle VR video Display.png",
+        "label": "Toggle VR video Display",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\22_Gang Source and program.png",
+        "label": "Gang Source and program",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel2\\23_Comparison View.png",
+        "label": "Comparison View",
+        "pannel": "pannel2"
+    }
+]

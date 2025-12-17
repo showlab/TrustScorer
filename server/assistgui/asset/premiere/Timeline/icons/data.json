@@ -1,0 +1,112 @@
+[
+    {
+        "image_path": "output_cropped_images\\pannel4\\0_Insert and overwrite sequences as nest or individual clips.png",
+        "label": "Insert and overwrite sequences as nest or individual clips",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\0_Insert and overwrite sequences as nest or individual clips activated.png",
+        "label": "Insert and overwrite sequences as nest or individual clips activated",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\1_Snap in timelines.png",
+        "label": "Snap in timelines",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\1_Snap in timelines activated.png",
+        "label": "Snap in timelines activated",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\2_Linked selection.png",
+        "label": "Linked selection",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\2_Linked selection activated.png",
+        "label": "Linked selection activated",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\3_add marker.png",
+        "label": "add marker",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\4_Timeline display settings.png",
+        "label": "Timeline display settings",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\5_Caption track options.png",
+        "label": "Caption track options",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\6_Toggle Track Lock.png",
+        "label": "Toggle Track Lock",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\7_Toggle Sync Lock.png",
+        "label": "Toggle Sync Lock",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\8_Toggle Track Output.png",
+        "label": "Toggle Track Output",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\6_Toggle Track Lock activated.png",
+        "label": "Toggle Track Lock activated",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\7_Toggle Sync Lock activated.png",
+        "label": "Toggle Sync Lock activated",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\8_Toggle Track Output activated.png",
+        "label": "Toggle Track Output activated",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\9_Mute Track.png",
+        "label": "Mute Track",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\10_Solo Track.png",
+        "label": "Solo Track",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\11_Voice-over Record.png",
+        "label": "Voice-over Record",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\12_Bottom drag button.png",
+        "label": "Bottom drag button",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\12_Top drag button.png",
+        "label": "Top drag button",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\12_Right drag button.png",
+        "label": "Right drag button",
+        "pannel": "pannel4"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel4\\12_Left drag button.png",
+        "label": "Left drag button",
+        "pannel": "pannel4"
+    }
+]

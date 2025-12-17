@@ -1,0 +1,97 @@
+[
+    {
+        "image_path": "AE_cropped_button\\pannel2\\0_eyedropper.png",
+        "label": "eyedropper",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\1_set front size.png",
+        "label": "set front size",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\2_set leading.png",
+        "label": "set leading",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\3_set kerning between two characters.png",
+        "label": "set kerning between two characters",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\4_set tracking for selected charaters.png",
+        "label": "set tracking for selected charaters",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\5_set stroke width.png",
+        "label": "set stroke width",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\6_vertically scale.png",
+        "label": "vertically scale",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\7_horizontally scale.png",
+        "label": "horizontally scale",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\8_set baseline shift.png",
+        "label": "set baseline shift",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\9_set tsume for selected charaters.png",
+        "label": "set tsume for selected charaters",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\10_faux bold.png",
+        "label": "faux bold",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\11_faux itlaic.png",
+        "label": "faux itlaic",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\12_all caps.png",
+        "label": "all caps",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\13_small caps.png",
+        "label": "small caps",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\14_superscript.png",
+        "label": "superscript",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\15_subscript.png",
+        "label": "subscript",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\16_button1.png",
+        "label": "button1",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\17_button2.png",
+        "label": "button2",
+        "pannel": "pannel2"
+    },
+    {
+        "image_path": "AE_cropped_button\\pannel2\\18_button3.png",
+        "label": "button3",
+        "pannel": "pannel2"
+    }
+]

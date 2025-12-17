@@ -1,0 +1,182 @@
+[
+    {
+        "image_path": "output_cropped_images\\pannel3\\0_Selection Tool activated V.png",
+        "label": "Selection Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\0_Selection Tool V.png",
+        "label": "Selection Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\1_Track Select Forward Tool A.png",
+        "label": "Track Select Forward Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\1_Track Select Forward Tool activated A.png",
+        "label": "Track Select Forward Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\1_Track Select Backward Tool activated shift A.png",
+        "label": "Track Select Backward Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\1_Track Select Backward Tool shift A.png",
+        "label": "Track Select Backward Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\2_Ripple Edit Tool B.png",
+        "label": "Ripple Edit Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\2_Ripple Edit Tool activated B.png",
+        "label": "Ripple Edit Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\3_Razor Tool C.png",
+        "label": "Razor Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\3_Razor Tool activated C.png",
+        "label": "Razor Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\4_Slip Tool Y.png",
+        "label": "Slip Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\4_Slip Tool activated Y.png",
+        "label": "Slip Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\5_Pen Tool P.png",
+        "label": "Pen Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\5_Pen Tool activated P.png",
+        "label": "Pen Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\6_Rectangle Tool.png",
+        "label": "Rectangle Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\6_Rectangle Tool activated.png",
+        "label": "Rectangle Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\7_Hand Tool H.png",
+        "label": "Hand Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\7_Hand Tool activated H.png",
+        "label": "Hand Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\8_Type Tool T.png",
+        "label": "Type Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\8_Type Tool activated T.png",
+        "label": "Type Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\9_Rolling Edit Tool.png",
+        "label": "Rolling Edit Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\9_Rolling Edit Tool activated.png",
+        "label": "Rolling Edit Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\10_Rate Stretch Tool R.png",
+        "label": "Rate Stretch Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\10_Rate Stretch Tool activated R.png",
+        "label": "Rate Stretch Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\11_Slide Tool activated U.png",
+        "label": "Slide Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\11_Slide Tool U.png",
+        "label": "Slide Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\12_Ellipse Tool activated.png",
+        "label": "Ellipse Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\12_Ellipse Tool.png",
+        "label": "Ellipse Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\13_polygon Tool acitvated.png",
+        "label": "polygon Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\13_polygon Tool.png",
+        "label": "polygon Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\13_Zoom Tool activated Z.png",
+        "label": "Zoom Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\13_Zoom Tool Z.png",
+        "label": "Zoom Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\14_Vertical Type Tool activated.png",
+        "label": "Vertical Type Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\14_Vertical Type Tool.png",
+        "label": "Vertical Type Tool",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\15_Remix Tool activated.png",
+        "label": "Remix Tool activated",
+        "pannel": "pannel3"
+    },
+    {
+        "image_path": "output_cropped_images\\pannel3\\15_Remix Tool.png",
+        "label": "Remix Tool",
+        "pannel": "pannel3"
+    }    
+]
