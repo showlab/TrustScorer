@@ -144,16 +144,26 @@ python 5_draw_curve_cost_sr.py
 [ [BaiduDisk](https://pan.baidu.com/s/15-T-GAdkOIpN6FsW4L0EvQ?pwd=mm25) ].
 
 #### 3.5 Execution
-- run on server
+- on server
 ```
-cd server
-server-trustworthy.ipynb
+jupyter notebook --port 4337
 ```
 
-- run on client
+- on local (Windows System)
 ```
-cd client
-client.ipynb
+1.
+use MobaXterm to create a tunel from localhost:6005 to 127.0.0.1:4337 on server
+use MobaXterm to create a tunel from localhost:6006 to 127.0.0.1:4338 on server
+
+2.
+open Browser (Edge or Chrome) and input:
+http://localhost:6005/tree?
+
+3.
+then run (shift+enter) the server code (http://localhost:6005/notebooks/server/server-trustworthy.ipynb)
+
+4.
+In Windows PyCharm, run (shift+enter) the client code (client/client.ipynb)
 ```
 
 ### 4. Acknowledgements
