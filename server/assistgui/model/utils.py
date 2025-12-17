@@ -114,7 +114,6 @@ def get_video_title(video_source, llm='gpt-35-turbo'):
     source_type = is_url_or_filepath(video_source)
     if source_type == 'URL':
         url = video_source
-        # video_id = url.split("=")[-1]
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
 
@@ -143,3 +142,4 @@ def get_ocr(self, image_path):
         return f" Also some texts on the frame ({full_text})"
     else:
         return ""
+
