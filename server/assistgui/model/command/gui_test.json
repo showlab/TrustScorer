@@ -1,0 +1,1371 @@
+{
+    "premiere": [
+        {
+            "name": "Effect Controls",
+            "rectangle": [
+                0,
+                87,
+                781,
+                631
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "Effect Controls",
+                        "rectangle": [
+                            13,
+                            94,
+                            84,
+                            105
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    },
+                    {
+                        "name": "Lumetri Scopes",
+                        "rectangle": [
+                            127,
+                            94,
+                            203,
+                            107
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    },
+                    {
+                        "name": "Source :",
+                        "rectangle": [
+                            244,
+                            95,
+                            281,
+                            107
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    },
+                    {
+                        "name": "no clips",
+                        "rectangle": [
+                            288,
+                            95,
+                            325,
+                            107
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    },
+                    {
+                        "name": "Audio Clip Mixer :",
+                        "rectangle": [
+                            370,
+                            96,
+                            456,
+                            107
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "no clip selected",
+                        "rectangle": [
+                            16,
+                            133,
+                            92,
+                            145
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "00 : 00 : 00",
+                        "rectangle": [
+                            7,
+                            615,
+                            49,
+                            626
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    },
+                    {
+                        "name": ": 00",
+                        "rectangle": [
+                            48,
+                            614,
+                            64,
+                            624
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Program",
+            "rectangle": [
+                781,
+                87,
+                1562,
+                631
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "Program :",
+                        "rectangle": [
+                            796,
+                            95,
+                            841,
+                            108
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "no sequences",
+                        "rectangle": [
+                            848,
+                            95,
+                            914,
+                            107
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "media_asset",
+                        "rectangle": [
+                            781,
+                            87,
+                            1562,
+                            631
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick"
+                        ],
+                        "objects": []
+                    }
+                ],
+                [
+                    {
+                        "name": "00 00 00 00",
+                        "rectangle": [
+                            803,
+                            540,
+                            879,
+                            551
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "00 : 00 : 00 : 00",
+                        "rectangle": [
+                            1454,
+                            539,
+                            1530,
+                            551
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "+",
+                        "rectangle": [
+                            1231,
+                            601,
+                            1242,
+                            613
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "A",
+                        "rectangle": [
+                            1277,
+                            602,
+                            1291,
+                            614
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "A",
+                        "rectangle": [
+                            1312,
+                            601,
+                            1325,
+                            613
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "+",
+                        "rectangle": [
+                            1522,
+                            604,
+                            1535,
+                            615
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Project",
+            "rectangle": [
+                0,
+                631,
+                284,
+                1020
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "Project : Untitled",
+                        "rectangle": [
+                            13,
+                            641,
+                            95,
+                            653
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Media Browser",
+                        "rectangle": [
+                            138,
+                            642,
+                            214,
+                            651
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "new bins_icon",
+                        "rectangle": [
+                            10,
+                            664,
+                            35,
+                            696
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Untitled.prproj",
+                        "rectangle": [
+                            44,
+                            671,
+                            114,
+                            684
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Search bar",
+                        "rectangle": [
+                            41,
+                            696,
+                            199,
+                            711
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "typewrite"
+                        ]
+                    },
+                    {
+                        "name": "Icon View_icon",
+                        "rectangle": [
+                            225,
+                            691,
+                            254,
+                            721
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Import media to start",
+                        "rectangle": [
+                            89,
+                            844,
+                            194,
+                            857
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Accessory",
+            "rectangle": [
+                284,
+                631,
+                336,
+                1020
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                {
+                    "name": "type_tool_icon",
+                    "rectangle": [
+                        297,
+                        838,
+                        322,
+                        863
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "split_tool_icon",
+                    "rectangle": [
+                        296,
+                        757,
+                        324,
+                        783
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "pen_tool_icon",
+                    "rectangle": [
+                        298,
+                        785,
+                        325,
+                        811
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "select_tool_icon",
+                    "rectangle": [
+                        299,
+                        651,
+                        319,
+                        672
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "hand_tool_icon",
+                    "rectangle": [
+                        300,
+                        814,
+                        324,
+                        837
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "track_select_forward_tool_icon",
+                    "rectangle": [
+                        298,
+                        678,
+                        324,
+                        703
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "ripple_edit_tool_icon",
+                    "rectangle": [
+                        298,
+                        704,
+                        320,
+                        725
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                },
+                {
+                    "name": "razzer_tool_icon",
+                    "rectangle": [
+                        299,
+                        731,
+                        319,
+                        755
+                    ],
+                    "type": [
+                        "moveTo",
+                        "click"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Timeline",
+            "rectangle": [
+                336,
+                631,
+                1443,
+                1020
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "Timeline :",
+                        "rectangle": [
+                            366,
+                            640,
+                            412,
+                            652
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "no sequences",
+                        "rectangle": [
+                            419,
+                            640,
+                            485,
+                            654
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "00 00 00 00",
+                        "rectangle": [
+                            356,
+                            667,
+                            442,
+                            681
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "add marker_icon",
+                        "rectangle": [
+                            460,
+                            685,
+                            478,
+                            704
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Timeline display settings_icon",
+                        "rectangle": [
+                            492,
+                            684,
+                            512,
+                            707
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "CC",
+                        "rectangle": [
+                            530,
+                            691,
+                            542,
+                            699
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "playhead",
+                        "rectangle": [
+                            337,
+                            1017,
+                            337,
+                            633
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "dragTo"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Drop media here to create sequence .",
+                        "rectangle": [
+                            794,
+                            844,
+                            975,
+                            855
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Accessory",
+            "rectangle": [
+                1443,
+                631,
+                1562,
+                1020
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "-24",
+                        "rectangle": [
+                            1532,
+                            799,
+                            1547,
+                            806
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "--30",
+                        "rectangle": [
+                            1525,
+                            831,
+                            1545,
+                            839
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "--36",
+                        "rectangle": [
+                            1525,
+                            865,
+                            1547,
+                            872
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "kb",
+                        "rectangle": [
+                            1527,
+                            931,
+                            1543,
+                            974
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Effects",
+            "rectangle": [
+                1562,
+                87,
+                1920,
+                1020
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "Effects",
+                        "rectangle": [
+                            1577,
+                            96,
+                            1608,
+                            105
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Search bar",
+                        "rectangle": [
+                            1595,
+                            120,
+                            1763,
+                            135
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "typewrite"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Presets",
+                        "rectangle": [
+                            1612,
+                            148,
+                            1649,
+                            160
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Lumetri Presets",
+                        "rectangle": [
+                            1612,
+                            168,
+                            1691,
+                            179
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Audio Effects",
+                        "rectangle": [
+                            1610,
+                            188,
+                            1675,
+                            198
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Audio Transitions",
+                        "rectangle": [
+                            1611,
+                            209,
+                            1696,
+                            218
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Video Effects",
+                        "rectangle": [
+                            1611,
+                            227,
+                            1675,
+                            240
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Video Transitions",
+                        "rectangle": [
+                            1611,
+                            247,
+                            1698,
+                            260
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Essential Graphics",
+                        "rectangle": [
+                            1577,
+                            300,
+                            1668,
+                            314
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Essential Sound",
+                        "rectangle": [
+                            1577,
+                            331,
+                            1654,
+                            342
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Lumetri Color",
+                        "rectangle": [
+                            1577,
+                            362,
+                            1645,
+                            372
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Libraries",
+                        "rectangle": [
+                            1576,
+                            391,
+                            1620,
+                            402
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Markers",
+                        "rectangle": [
+                            1576,
+                            422,
+                            1618,
+                            431
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "History",
+                        "rectangle": [
+                            1577,
+                            450,
+                            1614,
+                            463
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Info",
+                        "rectangle": [
+                            1577,
+                            482,
+                            1595,
+                            491
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Accessory",
+            "rectangle": [
+                0,
+                43,
+                1920,
+                87
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "A",
+                        "rectangle": [
+                            18,
+                            56,
+                            38,
+                            72
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Learning",
+                        "rectangle": [
+                            575,
+                            57,
+                            619,
+                            70
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Assembly",
+                        "rectangle": [
+                            662,
+                            56,
+                            711,
+                            69
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Editing",
+                        "rectangle": [
+                            757,
+                            58,
+                            793,
+                            70
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Color",
+                        "rectangle": [
+                            838,
+                            58,
+                            864,
+                            67
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Effects",
+                        "rectangle": [
+                            911,
+                            58,
+                            943,
+                            67
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Audio",
+                        "rectangle": [
+                            988,
+                            57,
+                            1018,
+                            67
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Graphics",
+                        "rectangle": [
+                            1063,
+                            57,
+                            1106,
+                            68
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Captions",
+                        "rectangle": [
+                            1152,
+                            58,
+                            1194,
+                            68
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    },
+                    {
+                        "name": "Libraries",
+                        "rectangle": [
+                            1241,
+                            56,
+                            1284,
+                            68
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click",
+                            "rightClick",
+                            "doubleClick"
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Accessory",
+            "rectangle": [
+                0,
+                1020,
+                1920,
+                1040
+            ],
+            "type": [
+                "moveTo",
+                "click",
+                "doubleClick",
+                "rightClick",
+                "dragTo"
+            ],
+            "elements": []
+        },
+        {
+            "name": "Application",
+            "rectangle": [
+                0,
+                23,
+                1920,
+                42
+            ],
+            "type": [
+                "moveTo",
+                "click"
+            ],
+            "elements": [
+                [
+                    {
+                        "name": "File",
+                        "rectangle": [
+                            0,
+                            23,
+                            32,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Edit",
+                        "rectangle": [
+                            32,
+                            23,
+                            66,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Clip",
+                        "rectangle": [
+                            66,
+                            23,
+                            101,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Sequence",
+                        "rectangle": [
+                            101,
+                            23,
+                            166,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Markers",
+                        "rectangle": [
+                            166,
+                            23,
+                            222,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Graphics",
+                        "rectangle": [
+                            222,
+                            23,
+                            282,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "View",
+                        "rectangle": [
+                            282,
+                            23,
+                            321,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Window",
+                        "rectangle": [
+                            321,
+                            23,
+                            379,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    },
+                    {
+                        "name": "Help",
+                        "rectangle": [
+                            379,
+                            23,
+                            418,
+                            42
+                        ],
+                        "type": [
+                            "moveTo",
+                            "click"
+                        ]
+                    }
+                ]
+            ]
+        }
+    ]
+}
