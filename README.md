@@ -139,6 +139,19 @@ python 4_show_ace_actions.py
 python 5_draw_curve_cost_sr.py
 ```
 
+#### 3.5 Execution
+- run on server
+```
+xxxx
+```
+
+- run on client
+```
+cd client
+run client.ipynb
+```
+
+
 **Result link:**
 [ [OneDrive](https://1drv.ms/f/c/f6d9d790b8550d3f/IgCDeT8J4fzcT7V7ZxVhe5qsASSo6K7ch34S8muiSkMdYvE?e=vdvFHV) ]
 [ [BaiduDisk](https://pan.baidu.com/s/15-T-GAdkOIpN6FsW4L0EvQ?pwd=mm25) ].
